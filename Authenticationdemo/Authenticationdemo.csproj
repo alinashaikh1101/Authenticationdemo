@@ -181,9 +181,9 @@
     <Compile Include="Migrations\202107221216457_IdentityDemo.Designer.cs">
       <DependentUpon>202107221216457_IdentityDemo.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202107221306584_identitydemo.cs" />
-    <Compile Include="Migrations\202107221306584_identitydemo.Designer.cs">
-      <DependentUpon>202107221306584_identitydemo.cs</DependentUpon>
+    <Compile Include="Migrations\202107230642146_everything ok.cs" />
+    <Compile Include="Migrations\202107230642146_everything ok.Designer.cs">
+      <DependentUpon>202107230642146_everything ok.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
@@ -272,8 +272,8 @@
     <EmbeddedResource Include="Migrations\202107221216457_IdentityDemo.resx">
       <DependentUpon>202107221216457_IdentityDemo.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202107221306584_identitydemo.resx">
-      <DependentUpon>202107221306584_identitydemo.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202107230642146_everything ok.resx">
+      <DependentUpon>202107230642146_everything ok.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
